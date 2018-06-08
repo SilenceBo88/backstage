@@ -15,6 +15,7 @@
 *.iws
 *.iml
 *.ipr
+/upload/
 
 ### NetBeans ###
 /nbproject/private/
@@ -23,4 +24,3 @@
 /dist/
 /nbdist/
 /.nb-gradle/
-/upload/
