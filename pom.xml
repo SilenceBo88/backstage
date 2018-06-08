@@ -159,6 +159,12 @@
             <artifactId>shiro-spring-boot-web-starter</artifactId>
             <version>1.4.0</version>
         </dependency>
+        <!--Excel支持-->
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>3.9</version>
+        </dependency>
 
     </dependencies>
 
